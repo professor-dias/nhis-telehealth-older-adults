@@ -1,3 +1,3 @@
-# Source data
+# Analysis outputs
 
-Download the 2024 and 2025 NHIS Sample Adult public-use CSV files from the CDC pages linked in the main README. Extract and place `adult24.csv` and `adult25.csv` here. Downloaded data are not included in this repository.
+The R script saves `Table1_NHIS_by_Outcome.html` and `Table2_NHIS_Regression.html` here. Generated tables are excluded from version control by default.
